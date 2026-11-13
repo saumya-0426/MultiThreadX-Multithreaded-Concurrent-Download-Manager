@@ -1,4 +1,4 @@
-# MultiThread
+# MultiThreadX
 
 **A C++17 concurrent download manager with a custom thread pool, libcurl downloads, SQLite history, and a repeatable benchmark mode.**
 
