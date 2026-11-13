@@ -1,0 +1,8 @@
+# Compiler outputs
+*.o
+*.exe
+
+# Files created when the application runs
+/downloads/*
+/database/*.db
+
